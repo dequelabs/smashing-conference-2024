@@ -162,6 +162,8 @@ Prompt 3: Follow these instructions exactly:
 
 It’s really fun to ask different questions and see different responses. If you think your company might be interested in using this slack integration or if you just want to ask axe assistant some questions, please see me after this.
 
+## Wrap-up
+
 OK, we’ve gone through a lot today and I wanted to make sure you could quickly access the tools and resources which will get you started on your accessibility journey or get you moving faster. Visit github.com/ballendq/smashing-2024 for a whole bunch of useful links. The QR code will also get you to the GitHub link. The repo includes links to communities where we can carry on the discussion. Reach out to me on LinkedIn or the axe community on slack. Also, please visit my colleagues and I at the Deque booth.
 
 We have time for some questions right now.
