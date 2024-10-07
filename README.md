@@ -2,8 +2,8 @@
 
 ## Speaker contact information
 
+* New York City, USA: [Dylan Barrell on LinkedIn](https://www.linkedin.com/in/dylanbarrell/)
 * Freiburg, Germany: [Ben Allen on LinkedIn](https://www.linkedin.com/in/benallen81/)
-* New York City, USA: speaker TBC
 
 ## Stay in touch
 
